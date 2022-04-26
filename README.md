@@ -23,7 +23,7 @@ Webpack
 
 ## Screenshot
 
-<img src="image/Capture.png" alt="screenshot image">
+<img src="image/Capture.PNG" alt="screenshot image">
 
 ## Getting Started
 
