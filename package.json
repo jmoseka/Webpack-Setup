@@ -1,0 +1,24 @@
+{
+  "name": "webpack-setup",
+  "version": "1.0.0",
+  "description": "This is a webpack boilerplate with webpack official guides which can be used later as a starting point in projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmoseka/Webpack-Setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmoseka/Webpack-Setup/issues"
+  },
+  "homepage": "https://github.com/jmoseka/Webpack-Setup#readme",
+  "devDependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
